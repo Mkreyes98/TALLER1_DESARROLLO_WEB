@@ -40,8 +40,6 @@ img {
 }
 
 
-/* Header & Nav */
-
 .header {
     background-color: var(--primary);
     padding: var(--space-md) 0;
